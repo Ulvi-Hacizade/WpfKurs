@@ -1,0 +1,106 @@
+﻿<Window x:Class="DOC_21.Views.Windows.MainPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" Height="{Binding SystemParameters.PrimaryScreenHeight}"
+        Width="{Binding SystemParameters.PrimaryScreenWidth}" WindowStartupLocation="CenterScreen"
+        Title="Edtrac" >
+
+
+    <Window.Resources>
+        <Style TargetType="Button" x:Key="btnMenu">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="WhiteSmoke"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontWeight" Value="DemiBold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="Border" CornerRadius="15">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Border" Property="Background" Value="#2b5493"/>
+                            </Trigger>
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter TargetName="Border" Property="Background" Value="#2b5493"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="btnMenuBig">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="WhiteSmoke"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontWeight" Value="DemiBold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="Border" CornerRadius="15">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Border" Property="Background" Value="#2b5493"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180"/>
+            <ColumnDefinition Width="134*"/>
+            <ColumnDefinition Width="11*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" Grid.Row="0">
+            <Button Name="logo" Background="Transparent" BorderThickness="0">
+                <Image Name="adminImg"  Source="/Images/logo.png"  Margin="7"/>
+            </Button>
+        </Border>
+
+        <Border Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2">
+            <Grid Background="#FF2196F3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="1" Grid.Column="0" Background="#134187">
+            <ScrollViewer>
+                <Grid>
+                    <StackPanel Margin="0">
+                        <Button Command="{Binding OpenOrganization}" Style="{StaticResource btnMenuBig}" Name="btnCatalogs"  Height="55" Content="Müəllimlər" FontSize="20" FontWeight="Bold"/>
+                        <Button Command="{Binding OpenCourse}" Style="{StaticResource btnMenuBig}" Height="55" Content="Kurslar" Name="btnReports" FontSize="20" FontWeight="Bold"  />
+                        <Button Command="{Binding OpenDocument}" Style="{StaticResource btnMenuBig}" Name="btnOperations" Height="55" Content="Müraciətlər" FontSize="20" FontWeight="Bold" Click="btnOperations_Click" />
+
+                    </StackPanel>
+                </Grid>
+            </ScrollViewer>
+        </Border>
+
+        <Border Grid.Column="1" Grid.Row="0" Grid.RowSpan="2" Grid.ColumnSpan="2">
+            <Grid  Background="#f2f2f2" Name="grdCenter"  Height="auto">
+                <Image HorizontalAlignment="Center" VerticalAlignment="Center" Source="/Images/Education-and-Training-Academy-Logo (1).png" Margin="10,10,10,10" Width="484"  />
+            </Grid>
+        </Border>
+    </Grid>
+
+</Window>

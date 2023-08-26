@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="DOC_21.Views.Components.Document.DocumentSearch"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DOC_21.Views.Components.Document"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Name="grdComponents" Grid.Column="0" Style="{StaticResource grdForm}" Margin="0 0 30 0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+            <!--<ColumnDefinition Width="*"/>-->
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" >
+            <TextBlock Height="25" FontSize="15" HorizontalAlignment="Left" Margin="5 5">Müraciətin adı</TextBlock>
+            <TextBlock Height="50" FontSize="15" HorizontalAlignment="Left" Margin="5,18,0,5">Müraciətin<LineBreak/>tarix aralığı</TextBlock>
+            <TextBlock Height="46" FontSize="15" TextAlignment="Left" Margin="5,5,0,5">Müraciətin<LineBreak/>qeydiyyat nömrəsi</TextBlock>
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+
+            <TextBox Text="{Binding SearchTextDocument.DocumentName}" FontSize="15" Height="25" Width="250" HorizontalAlignment="Left" Margin="5" />
+            <DatePicker  SelectedDate="{Binding SearchTextDocument.SearchBeginDate}" FontSize="15" HorizontalAlignment="Left" Margin="5" />
+            <DatePicker SelectedDate="{Binding SearchTextDocument.SearchEndDate}" FontSize="15" HorizontalAlignment="Left" Margin="5" />
+            <TextBox Text="{Binding SearchTextDocument.DocumentRegistrationNumber}" FontSize="15" Height="40" Width="250" HorizontalAlignment="Left" Margin="5" />
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" >
+            <TextBlock Height="25" FontSize="15" HorizontalAlignment="Right" Margin="5 5">Müraciətin məzmunu</TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Column="3" >
+            <TextBox Text="{Binding SearchTextDocument.DocumentContent}" TextWrapping="Wrap" FontSize="15" Height="150" Width="500" HorizontalAlignment="Left" Margin="5" />
+        </StackPanel>
+        <StackPanel Grid.Column="4" >
+            <TextBlock Height= "50" FontSize="15" TextAlignment="Center" Margin="5,5,5,5">Digər qeydlər</TextBlock>
+
+            <TextBlock Height= "50" FontSize="15" TextAlignment="Center" Margin="5,32,5,5">Məlumatı tərtib<LineBreak/>edən işçi</TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Column="5">
+
+
+            <TextBox Text="{Binding SearchTextDocument.Note}" TextWrapping="Wrap" FontSize="15" Height="80" Width="250" HorizontalAlignment="Left" Margin="5,5,5,5" />
+
+            <TextBox Text="{Binding SearchTextDocument.DocumentCreator}" FontSize="15" Height="25" Width="250" HorizontalAlignment="Left" Margin="5,5,5,5" />
+           
+
+        </StackPanel>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\DOC-21\DOC-21Core\bin\Debug\DOC-21Core.dll
+C:\Users\Admin\source\repos\DOC-21\DOC-21Core\bin\Debug\DOC-21Core.pdb
+C:\Users\Admin\source\repos\DOC-21\DOC-21Core\obj\Debug\DOC-21Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DOC-21\DOC-21Core\obj\Debug\DOC-21Core.dll
+C:\Users\Admin\source\repos\DOC-21\DOC-21Core\obj\Debug\DOC-21Core.pdb
+C:\Users\Admin\source\repos\DOC-21\DOC-21Core\obj\Debug\DOC-21Core.csproj.AssemblyReference.cache

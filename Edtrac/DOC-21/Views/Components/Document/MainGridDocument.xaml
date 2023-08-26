@@ -1,0 +1,94 @@
+﻿<UserControl x:Class="DOC_21.Views.Components.Document.MainGridDocument"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DOC_21.Views.Components.Document"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Name="grdComponents" Grid.Column="0" Style="{StaticResource grdForm}" Margin="5 5 30 5">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="135"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" ></RowDefinition>
+                <RowDefinition Height="50" ></RowDefinition>
+                <RowDefinition Height="*" ></RowDefinition>
+                <RowDefinition Height="*" ></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+            <StackPanel Grid.Column="0" Grid.Row="0">
+                <TextBlock  FontSize="15" HorizontalAlignment="Left" Margin="5 5">Müraciətin adı</TextBlock>
+            </StackPanel>
+
+            <Border Grid.Column="1" Grid.Row="0" Margin="5">
+                <TextBox Text="{Binding CurrentDocument.DocumentName}" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" Margin="0" />
+            </Border>
+
+            <StackPanel Grid.Column="0" Grid.Row="1">
+                <TextBlock  FontSize="15" HorizontalAlignment="Left" Margin="5 5">Müraciətin tarixi</TextBlock>
+            </StackPanel>
+
+            <Border Grid.Column="1" Grid.Row="1" Margin="5">
+                <DatePicker SelectedDate="{Binding CurrentDocument.DocumentRegistrationDate}" FontSize="15" HorizontalAlignment="Left" Margin="5" />
+            </Border>
+
+            <StackPanel Grid.Column="0" Grid.Row="2">
+                <TextBlock  FontSize="15" HorizontalAlignment="Left" Margin="5 5">Müraciətin<LineBreak/>qeydiyyat nömrəsi</TextBlock>
+            </StackPanel>
+
+            <Border Grid.Column="1" Grid.Row="2" Margin="5">
+                <TextBox Text="{Binding CurrentDocument.DocumentRegistrationNumber}" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" FontSize="15"  Margin="0" />
+            </Border>
+
+            <StackPanel Grid.Column="0" Grid.Row="3">
+                <TextBlock  FontSize="15" HorizontalAlignment="Left" Margin="5 5">Müraciətin<LineBreak/>məzmunu</TextBlock>
+            </StackPanel>
+
+            <Border Grid.Column="1" Grid.Row="3" Margin="5">
+                <TextBox Text="{Binding CurrentDocument.DocumentContent}" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" FontSize="15" Margin="0" />
+            </Border>
+
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="135"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*" ></RowDefinition>
+
+                <RowDefinition Height="*" ></RowDefinition>
+                <RowDefinition Height="*" ></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Column="0" Grid.Row="0">
+                <TextBlock  FontSize="15" HorizontalAlignment="Left" Margin="5 5">Digər qeydlər</TextBlock>
+            </StackPanel>
+
+            <Border Grid.Column="1" Grid.Row="0" Margin="5">
+                <TextBox Text="{Binding CurrentDocument.Note}" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" FontSize="15" Margin="0"  />
+            </Border>
+
+            <StackPanel Grid.Column="0" Grid.Row="1">
+                <TextBlock  FontSize="15" HorizontalAlignment="Left" Margin="5 5">MDE işçi</TextBlock>
+            </StackPanel>
+
+            <Border Grid.Column="1" Grid.Row="1" Margin="5">
+                <TextBox Text="{Binding CurrentDocument.DocumentCreator}" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" FontSize="15" Margin="0"  />
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

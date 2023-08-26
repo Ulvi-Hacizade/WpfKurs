@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\for git test\vpf\Edtrac\DOC-21Core\bin\Debug\DOC-21Core.dll
+C:\Users\Admin\Desktop\for git test\vpf\Edtrac\DOC-21Core\bin\Debug\DOC-21Core.pdb
+C:\Users\Admin\Desktop\for git test\vpf\Edtrac\DOC-21Core\obj\Debug\EdtracCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\for git test\vpf\Edtrac\DOC-21Core\obj\Debug\DOC-21Core.dll
+C:\Users\Admin\Desktop\for git test\vpf\Edtrac\DOC-21Core\obj\Debug\DOC-21Core.pdb

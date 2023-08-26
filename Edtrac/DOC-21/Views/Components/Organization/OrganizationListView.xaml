@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="DOC_21.Views.Components.Organization.OrganizationListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DOC_21.Views.Components.Organization"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <ListView x:Name="MainList" ItemsSource="{Binding Organizations}"
+                      SelectedItem="{Binding SelectedOrganization}"
+                      Grid.Row="1"  Style="{StaticResource listViewCustom}" SelectionChanged="MainList_SelectionChanged" >
+
+            <ListView.View>
+                <GridView >
+                    <GridViewColumn  DisplayMemberBinding="{Binding No}" Header="No" Width="30" />
+                    <GridViewColumn  DisplayMemberBinding="{Binding Surname}"  Header="Soyad" Width="100"/>
+                    <GridViewColumn  DisplayMemberBinding="{Binding Name}" Header="Ad" Width="100"/>
+                    
+                    <GridViewColumn  DisplayMemberBinding="{Binding FatherName}" Header="Ata adı" Width="100"/>
+                    <GridViewColumn  DisplayMemberBinding="{Binding OrganizationName}" Header="Kursun adı" Width="150"/>
+                    <GridViewColumn  DisplayMemberBinding="{Binding ActivityInformation}" Header="Fəaliyyətinə dair məlumatlar" Width="190"/>
+                    <GridViewColumn  DisplayMemberBinding="{Binding DocumentRegistrationNumber}" Header="Sənədin qeydiyyat nömrəsi" Width="150"/>
+                    <GridViewColumn  DisplayMemberBinding="{Binding DocumentRegistrationDate }" Header="Sənədin qeydiyyat tarixi" Width="150"/>
+                    <GridViewColumn  DisplayMemberBinding="{Binding Note}" Header="Digər qeydlər" Width="250"/>
+                    <GridViewColumn  DisplayMemberBinding="{Binding EmployeeFullName}" Header="Məlumatı daxil edən işçi" Width="200"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</UserControl>

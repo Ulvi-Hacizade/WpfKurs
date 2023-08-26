@@ -1,0 +1,184 @@
+C:\Users\Admin\source\repos\DOC-21\DOC-21\bin\Debug\DOC-21.exe.config
+C:\Users\Admin\source\repos\DOC-21\DOC-21\bin\Debug\DOC-21.exe
+C:\Users\Admin\source\repos\DOC-21\DOC-21\bin\Debug\DOC-21.pdb
+C:\Users\Admin\source\repos\DOC-21\DOC-21\bin\Debug\DOC-21Core.dll
+C:\Users\Admin\source\repos\DOC-21\DOC-21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\DOC-21\DOC-21\bin\Debug\DOC-21Core.pdb
+C:\Users\Admin\source\repos\DOC-21\DOC-21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\MainPage.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\SqlConfiguration.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\WindowStart.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\ControlHeader.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Course\CourseListView.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Course\CourseSearch.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Course\MainGridCourse.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Dialog.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Document\DocumentListView.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Document\DocumentSearch.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Document\MainGridDocument.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\FormButtons.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\MessageDialog.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\MainGridOrganization.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\OrganizationListView.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\OrganizationSearch.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\UserControls\CourseControl.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\UserControls\DocumentControl.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\UserControls\OrganizationControl.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\LoginPage.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\MainPage.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\SqlConfiguration.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\UnknownErrorWindow.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\WindowStart.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21_MarkupCompile.cache
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21_MarkupCompile.lref
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\App.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\ControlHeader.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Course\CourseListView.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Course\CourseSearch.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Course\MainGridCourse.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Dialog.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Document\DocumentListView.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Document\DocumentSearch.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Document\MainGridDocument.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\FormButtons.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\MessageDialog.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\MainGridOrganization.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\OrganizationListView.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\OrganizationSearch.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\UserControls\CourseControl.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\UserControls\DocumentControl.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\UserControls\OrganizationControl.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\LoginPage.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\Views\Windows\UnknownErrorWindow.baml
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21.g.resources
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC_21.Properties.Resources.resources
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21.csproj.CopyComplete
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21.exe
+C:\Users\Admin\source\repos\DOC-21\DOC-21\obj\Debug\DOC-21.pdb
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\bin\Debug\DOC-21.exe.config
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\bin\Debug\DOC-21.exe
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\bin\Debug\DOC-21.pdb
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\bin\Debug\DOC-21Core.dll
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\bin\Debug\DOC-21Core.pdb
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC-21.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\MainPage.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\SqlConfiguration.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\WindowStart.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\ControlHeader.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Course\CourseListView.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Course\CourseSearch.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Course\MainGridCourse.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Dialog.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Document\DocumentListView.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Document\DocumentSearch.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Document\MainGridDocument.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\FormButtons.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\MessageDialog.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\MainGridOrganization.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\OrganizationListView.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\OrganizationSearch.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\UserControls\CourseControl.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\UserControls\DocumentControl.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\UserControls\OrganizationControl.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\LoginPage.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\MainPage.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\SqlConfiguration.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\UnknownErrorWindow.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\WindowStart.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC-21_MarkupCompile.cache
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC-21_MarkupCompile.lref
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\App.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\ControlHeader.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Course\CourseListView.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Course\CourseSearch.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Course\MainGridCourse.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Dialog.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Document\DocumentListView.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Document\DocumentSearch.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Document\MainGridDocument.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\FormButtons.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\MessageDialog.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\MainGridOrganization.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\OrganizationListView.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Components\Organization\OrganizationSearch.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\UserControls\CourseControl.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\UserControls\DocumentControl.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\UserControls\OrganizationControl.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\LoginPage.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\Views\Windows\UnknownErrorWindow.baml
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC-21.g.resources
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC_21.Properties.Resources.resources
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC-21.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC-21.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC-21.exe
+C:\Users\Admin\Desktop\For git\vpf\DOC-21\DOC-21\obj\Debug\DOC-21.pdb
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\bin\Debug\DOC-21.exe.config
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\bin\Debug\DOC-21.exe
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\bin\Debug\DOC-21.pdb
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\bin\Debug\DOC-21Core.dll
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\bin\Debug\DOC-21Core.pdb
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC-21.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\MainPage.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\SqlConfiguration.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\WindowStart.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\ControlHeader.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Course\CourseListView.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Course\CourseSearch.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Course\MainGridCourse.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Dialog.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Document\DocumentListView.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Document\DocumentSearch.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Document\MainGridDocument.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\FormButtons.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\MessageDialog.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Organization\MainGridOrganization.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Organization\OrganizationListView.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Organization\OrganizationSearch.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\UserControls\CourseControl.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\UserControls\DocumentControl.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\UserControls\OrganizationControl.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\LoginPage.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\MainPage.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\SqlConfiguration.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\UnknownErrorWindow.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\WindowStart.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC-21_MarkupCompile.cache
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC-21_MarkupCompile.lref
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\App.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\ControlHeader.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Course\CourseListView.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Course\CourseSearch.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Course\MainGridCourse.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Dialog.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Document\DocumentListView.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Document\DocumentSearch.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Document\MainGridDocument.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\FormButtons.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\MessageDialog.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Organization\MainGridOrganization.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Organization\OrganizationListView.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Components\Organization\OrganizationSearch.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\UserControls\CourseControl.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\UserControls\DocumentControl.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\UserControls\OrganizationControl.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\LoginPage.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\Views\Windows\UnknownErrorWindow.baml
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC-21.g.resources
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC_21.Properties.Resources.resources
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC-21.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC-21.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC-21.exe
+C:\Users\Admin\Desktop\For git\vpf\Edtrac\DOC-21\obj\Debug\DOC-21.pdb
